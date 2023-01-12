@@ -1,8 +1,6 @@
 
 
-## Hi there 👋
-
-# 👋 Hello! Welcome to my world.
+## Hi there, welcome to my world! 👋
 ## My name is André Hyodo!
 
 Seja bem vindo à página de um estudante de Engenharia de Controle e Automação em final de curso, apaixonado por novas técnologias e códigos, principalmente para desenvolvimento de novos projetos.
