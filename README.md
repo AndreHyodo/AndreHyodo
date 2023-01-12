@@ -21,9 +21,10 @@ Seja bem vindo à página de um estudante de Engenharia de Controle e Automaçã
 - 🔭 I’m currently working on Stellantis
 - 🌱 I’m currently learning Node.Js, MySQL, MongoDB
 - 💬 Ask me about everything
-- ⚡ Fun fact: ...
 
 ## 📫 How to reach me
+
+<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 
 
