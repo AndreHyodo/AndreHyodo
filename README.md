@@ -19,16 +19,11 @@ Seja bem vindo à página de um estudante de Engenharia de Controle e Automaçã
 ##
 
 - 🔭 I’m currently working on Stellantis
-- 🌱 I’m currently learning 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning Node.Js, MySQL, MongoDB
+- 💬 Ask me about everything
 - ⚡ Fun fact: ...
 
-<i class="devicon-latex-original"></i>
+## 📫 How to reach me
 
-<body>
-  
-<i class="devicon-latex-original"></i>
-            
-<body/>
+
 
