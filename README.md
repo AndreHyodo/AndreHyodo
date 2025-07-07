@@ -19,7 +19,7 @@ Seja bem vindo à página de um estudante de Engenharia de Software com experiê
 ##
 
 - 🔭 I’m currently working on Stellantis
-- 🌱 I’m currently learning Node.Js, MySQL, MongoDB
+- 🌱 I’m currently learning LLM, RAG, Databricks
 - 💬 Ask me about everything
 
 ## 📫 How to reach me
